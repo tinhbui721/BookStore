@@ -1,2 +1,0 @@
-Language: C#
-Technology: Winform
